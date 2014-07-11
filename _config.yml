@@ -1,6 +1,7 @@
 permalink: /:year/:month/:day/:title/
 paginate: 10
 pygments: true
+markdown: kramdown
 
 name: "Alexis Tabary"
 description: "Python and Elixir Full Stack developer in Japan"
