@@ -1,0 +1,8 @@
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: true
+
+name: "Alexis Tabary"
+description: "Python and Elixir Full Stack developer in Japan"
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
