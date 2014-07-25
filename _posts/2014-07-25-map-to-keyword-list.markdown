@@ -17,7 +17,7 @@ end
 {% endhighlight %}
 
 
-But sometimes all I have at hands is a `Map`, usually coming straight from a third party json API. Here is a very simple snippet of code to convert such a `Map` into a `Keyword List`:
+But sometimes all I have at hand is a `Map`, usually coming straight from a third party json API. Here is a very simple snippet of code to convert such a `Map` into a `Keyword List`:
 
 {% highlight elixir %}
 def to_keyword_list(dict) do
