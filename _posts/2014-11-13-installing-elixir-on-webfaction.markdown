@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Installing Elixir on WebFaction"
-date: 2014-07-25 16:35:00
+date: 2014-11-13 14:19:00
 tags:
   - elixir
 ---
