@@ -13,5 +13,5 @@ I've recently written a small website based on [Phoenix](https://github.com/phoe
 Specifying the mnesia dir from the the shell can be done easily this way:
 
 {% highlight bash %}
-elixir --erl "-mnesia dir 'path/to/dir'" -S mix phoenix.start
+elixir --erl '-mnesia dir "path/to/db"' -S mix phoenix.start
 {% endhighlight %}
